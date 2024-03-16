@@ -1,0 +1,3 @@
+interface Clothing {
+    void produce();
+}

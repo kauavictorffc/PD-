@@ -1,0 +1,3 @@
+interface Eletro {
+    void manufacture();
+}
